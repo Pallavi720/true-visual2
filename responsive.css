@@ -1,0 +1,26 @@
+@media (max-width: 575.98px) { 
+    /* ==========================header======================== */
+    .m-hd{
+        height:15vh !important;
+    }
+    .m-menu{
+        width:100% !important;
+    }
+    .m-btn1{
+        width:85% !important;
+        padding-top:10px;
+    }
+    /* ===========================part2 section ===================== */
+     .m-part2{
+     padding-top:0rem !important;
+     margin-bottom: 1rem !important;
+    }
+    /* =============================part 4 section ==================== */
+    .m-part4
+    {font-size: 14px !important;
+    }
+    /* ================================part6 section===================== */
+    .m-part6-box{
+        margin-left:48px !important;
+    }
+ }
